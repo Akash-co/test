@@ -24,5 +24,3 @@ public class ExampleInstrumentedTest {
         assertEquals("com.example.githubtest", appContext.getPackageName());
     }
 }
-S
-aaa
